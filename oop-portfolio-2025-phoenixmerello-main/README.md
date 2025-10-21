@@ -13,7 +13,7 @@
 2 Test               -- completed\
 3 Personal Details   -- completed\
 4 Diamonds           -- completed\
-5 Questions          -- completed\
+5 Questions          -- completed
 
 **2 Data and Expressions**\
 **committed by 17th February**\
@@ -21,53 +21,53 @@
 2 Computing Averages       -- completed\
 3 Miles to Kilometers      -- completed\
 4 Square Calculation       -- completed\
-5 Fraction -- to do        -- completed\
+5 Fraction -- to do        -- completed
 
 **3 Selection and Iteration**\
 **committed by 24th February**\
-1 Computing a Pay Increase   -- completed
-2 Rock, Paper, Scissors      -- completed
-3 String Reverser            -- completed
+1 Computing a Pay Increase   -- completed\
+2 Rock, Paper, Scissors      -- completed\
+3 String Reverser            -- completed\
 4 Punctuation Marks          -- completed
 
 **4 Classes and Objects**\
 **committed by 3rd March**\
-1 Using String Objects     -- completed
-2 Dice                     -- completed
-3 Formatting Output        -- completed 
-4 Pin Encryption           -- completed 
+1 Using String Objects     -- completed\
+2 Dice                     -- completed\
+3 Formatting Output        -- completed\
+4 Pin Encryption           -- completed\ 
 5 Sphere Calculation       -- completed 
 
 **5 and 6 Writing Classes and Methods**\
 **committed by 17th March**\
-1 Sphere       -- completed 
-2 Books        -- completed 
-3 Bulb         -- completed 
-4 Accounts     -- completed 
+1 Sphere       -- completed\
+2 Books        -- completed\ 
+3 Bulb         -- completed\ 
+4 Accounts     -- completed\ 
 5 Cards        -- completed 
 
 **7 Inheritance**\
 **committed by 24th March**\
-1 Hospital            -- completed 
+1 Hospital            -- completed\ 
 2 Player Statistics   -- completed 
 **8 Polymorphism**\
 **committed by 31st March**\
-1 Firm Vacation           -- completed 
+1 Firm Vacation           -- completed\ 
 2 Password                -- completed 
 
 **9 Further Arrays**\
 **committed by 7th April**\
-1 Histogram             -- completed 
-2 L&L Bank Accounts     -- completed 
-3 Post Codes            -- completed 
+1 Histogram             -- completed\ 
+2 L&L Bank Accounts     -- completed\ 
+3 Post Codes            -- completed\ 
 4 Quiz Time             -- completed 
 
 **Turtle Graphics Assignment**\
 **committed by 5th May 10am**\
-1 Basic Application           -- completed 
-2 Command Processing          -- completed 
-3 Validating Commands        -- completed 
-4 Loading and Saving          -- completed 
+1 Basic Application           -- completed\ 
+2 Command Processing          -- completed\ 
+3 Validating Commands        -- completed\ 
+4 Loading and Saving          -- completed\ 
 5 Extending OOPGraphics library    -- completed 
 
 ## Notes

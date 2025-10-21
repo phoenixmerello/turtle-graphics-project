@@ -28,28 +28,28 @@
 1 Computing a Pay Increase   -- completed\
 2 Rock, Paper, Scissors      -- completed\
 3 String Reverser            -- completed\
-4 Punctuation Marks          -- completed\
+4 Punctuation Marks          -- completed
 
 **4 Classes and Objects**\
 **committed by 3rd March**\
-1 Using String Objects     -- completed\
-2 Dice                     -- completed\
-3 Formatting Output        -- completed\
-4 Pin Encryption           -- completed\ 
-5 Sphere Calculation       -- completed\ 
+1 Using String Objects     -- completed \
+2 Dice                     -- completed \
+3 Formatting Output        -- completed \
+4 Pin Encryption           -- completed \ 
+5 Sphere Calculation       -- completed \ 
 
 **5 and 6 Writing Classes and Methods**\
 **committed by 17th March**\
-1 Sphere       -- completed\
-2 Books        -- completed\ 
-3 Bulb         -- completed\ 
-4 Accounts     -- completed\ 
-5 Cards        -- completed\ 
+1 Sphere       -- completed \
+2 Books        -- completed \ 
+3 Bulb         -- completed \ 
+4 Accounts     -- completed \ 
+5 Cards        -- completed \ 
 
 **7 Inheritance**\
 **committed by 24th March**\
-1 Hospital            -- completed\ 
-2 Player Statistics   -- completed\ 
+1 Hospital            -- completed \ 
+2 Player Statistics   -- completed \ 
 **8 Polymorphism**\
 **committed by 31st March**\
 1 Firm Vacation           -- completed\ 

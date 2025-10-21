@@ -32,11 +32,11 @@
 
 **4 Classes and Objects**\
 **committed by 3rd March**\
-1 Using String Objects     -- completed \
-2 Dice                     -- completed \
-3 Formatting Output        -- completed \
-4 Pin Encryption           -- completed \\ 
-5 Sphere Calculation       -- completed \ 
+1 Using String Objects     -- completed  
+2 Dice                     -- completed  
+3 Formatting Output        -- completed  
+4 Pin Encryption           -- completed  
+5 Sphere Calculation       -- completed 
 
 **5 and 6 Writing Classes and Methods**\
 **committed by 17th March**\
@@ -48,27 +48,27 @@
 
 **7 Inheritance**\
 **committed by 24th March**\
-1 Hospital            -- completed \ 
-2 Player Statistics   -- completed \ 
+1 Hospital            -- completed  
+2 Player Statistics   -- completed
 **8 Polymorphism**\
 **committed by 31st March**\
-1 Firm Vacation           -- completed\ 
-2 Password                -- completed\ 
+1 Firm Vacation           -- completed  
+2 Password                -- completed 
 
 **9 Further Arrays**\
 **committed by 7th April**\
-1 Histogram             -- completed\ 
-2 L&L Bank Accounts     -- completed\ 
-3 Post Codes            -- completed\ 
-4 Quiz Time             -- completed\ 
+1 Histogram             -- completed  
+2 L&L Bank Accounts     -- completed  
+3 Post Codes            -- completed  
+4 Quiz Time             -- completed 
 
 **Turtle Graphics Assignment**\
 **committed by 5th May 10am**\
-1 Basic Application           -- completed\ 
-2 Command Processing          -- completed\ 
-3 Validating Commands        -- completed\ 
-4 Loading and Saving          -- completed\ 
-5 Extending OOPGraphics library    -- completed\ 
+1 Basic Application           -- completed  
+2 Command Processing          -- completed  
+3 Validating Commands        -- completed  
+4 Loading and Saving          -- completed  
+5 Extending OOPGraphics library    -- completed
 
 ## Notes
 After completing all 9 weeks its really interesting how my programs have developed in how i write them, 

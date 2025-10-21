@@ -9,7 +9,7 @@
 ## Work Schedule
 **1 Getting Started**\
 **committed by 10th February**\
-1 Hello World        -- completed
+1 Hello World        -- completed/
 2 Test               -- completed
 3 Personal Details   -- completed
 4 Diamonds           -- completed

@@ -35,7 +35,7 @@
 1 Using String Objects     -- completed \
 2 Dice                     -- completed \
 3 Formatting Output        -- completed \
-4 Pin Encryption           -- completed \ 
+4 Pin Encryption           -- completed \\ 
 5 Sphere Calculation       -- completed \ 
 
 **5 and 6 Writing Classes and Methods**\
